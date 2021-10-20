@@ -2,3 +2,10 @@
 
 1. freecodecamp javascript video 다 보기
 2. 
+
+
+1012
+0. 시작하기 전에 문제 로직 먼저 만들기
+1. 피보나치 + freecodecamp 나머지 문제 물기;
+2. 맨날 코드 보내기 / 인터넷에 올리기
+
